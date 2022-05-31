@@ -1,0 +1,21 @@
+{
+    "id": "9811f775-3fbe-455d-8e7a-3f509a6cfeb4",
+    "name": "Get User Routing Status Data Action Module",
+    "description": "A Terraform/CX as Code remote module for the following Genesys Cloud public API operation: Get User Routing Status",
+    "origin": "genesys",
+    "type": "module",
+    "classification": "",
+    "tags": [],
+    "permissions": [],
+    "products": [
+        "Quality Assurance and Compliance"
+    ],
+    "documentation": [],
+    "presentation": [
+        {
+            "title": "Page 1",
+            "description": "Please enter the fields below",
+            "fields": []
+        }
+    ]
+}
